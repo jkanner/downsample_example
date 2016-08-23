@@ -1,2 +1,2 @@
 # downsample_example
-Example unity tests for down-sampling
+Example unit tests for down-sampling
